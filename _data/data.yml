@@ -1,0 +1,139 @@
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Ilia Sukhov
+    tagline: Senior Unity Developer, Digital Nomad
+    avatar: iam.png  
+
+    # Sidebar links
+    email: sukhov163@gmail.com
+    citizenship: Russian
+    website: HeartsCore.github.io/
+    linkedin: ilya-sukhov-709484198
+    github: HeartsCore
+    # telegram: 
+    # pdf: 
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Russian
+          level: Native
+
+        - idiom: English
+          level: B1 Intermediate
+
+    interests:
+      title: Interests
+      info:
+        - item: Tech, IoT
+          link:
+
+        - item: Powerlifting, Swimming
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I is a game Developer on Unity3D  with excellent skills in .NET development and more than 4 years of practical experience in developing game mechanics and graphical user interface.  
+      Have been using C sharp since 2017, and Unity since the end of 2018. Have experience in development using the Task and Unitask libraries.
+      I can quickly investigation and fixing optimization issues, and code review. 
+      Ilia is a quick learning, communicative, analytical, results-driven person.
+      I know how to work with legacy code and can become a legacy code hunter.
+      
+      SDKs stack:
+       - Universal Render Pipeline
+       - UniTask
+       - Zenject
+       - Addressable Asset System
+       - Fmod
+       - Facebook SDK for Unity
+       - PlayFab SDK for Unity
+       - FireBase
+       - Steamworks SDK
+       - Photon Unity Networking (PUN 2.0)
+       - Unity Networking (Unet)
+       - NavMesh Unity
+       - DOTween
+       - Spine
+       - Mecanim animations
+       - Anima2D
+       - UnityLighting
+       - Feel (for mobile vibrations)
+       - Enhanced scroller unity
+       - Unity Ads
+       - Amplitude
+       - IronSource
+       - Unity in-app purchasing
+       - Unity push notifications
+       - Odin inspector
+       - HLSL in Unity
+       - Unit testing (Test runner)
+
+education:
+    title: Education
+    info:
+      - degree: Engineer
+        university: Samara State Technical University
+        time: 2008 - 2013
+        details: |
+          Civil EngineeringEngineer's degree, Civil Engineering      
+
+experiences:
+    title: Experiences
+    info:
+      - role: Unity3D Developer
+        time: August 2021 — July 2023
+        company: MYTONA LIMITED, New Zealand, Auckland 
+        details: |
+          Projects:
+      - title: Outfire - Battle Royale Shooter
+        link: "https://play.google.com/store/apps/details?id=com.mytona.outgun&hl=en_US"
+      - title: Family match
+        link: "https://play.google.com/store/apps/details?id=com.mytona.supercasual3"
+
+      - role: Unity3D Developer
+        time: June 2021 — July 2021
+        company:  Playcus Limited, Cyprus, Aglantzia
+        details: |
+          Projects:
+      - title: Art Book Paint Color by Number
+        link: "https://play.google.com/store/apps/details?id=com.playcus.artbook.paint.colorbynumber"
+
+      - role: Unity3D Developer
+        time: April 2020 — June 2021
+        company: Freelance 
+        details: |
+          Develop NDA game projects without a name
+
+      - role: Unity3D Developer
+        time: April 2020 — Recent time
+        company: OTUS online - education LLC, Russia, Moscow 
+        details: |
+          Projects:
+      - title: Education modules
+        link: "https://github.com/otus-unity/2020-01_module3"
+
+      - role: Unity3D Developer
+        time: December 2018 — April 2020
+        company: Ambersoft LLC, Australia, New South Wales
+        details: |
+          Projects:
+      - title: The Price of Freedom - The Secret of the Puppeteer
+        link: "https://store.steampowered.com/app/436160/_/"
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: .NET 7.0.8
+        level: 82%
+
+      - name: Unity 3d
+        level: 70%
+
+footer: >
+    “Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.” (c) Brian Kernighan
