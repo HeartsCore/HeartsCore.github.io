@@ -89,13 +89,19 @@ experiences:
         company: MYTONA LIMITED, New Zealand, Auckland 
         details: |
           Projects:
+      - title: Outfire - Battle Royale Shooter
+        link: "https://play.google.com/store/apps/details?id=com.mytona.outgun&hl=en_US"
+      - title: Family match
+        link: "https://play.google.com/store/apps/details?id=com.mytona.supercasual3"
 
       - role: Unity3D Developer
         time: June 2021 — July 2021
         company:  Playcus Limited, Cyprus, Aglantzia
         details: |
           Projects:
-          
+      - title: Art Book Paint Color by Number
+        link: "https://play.google.com/store/apps/details?id=com.playcus.artbook.paint.colorbynumber"
+
       - role: Unity3D Developer
         time: April 2020 — June 2021
         company: Freelance 
@@ -107,12 +113,16 @@ experiences:
         company: OTUS online - education LLC, Russia, Moscow 
         details: |
           Projects:
+      - title: Education modules
+        link: "https://github.com/otus-unity/2020-01_module3"
 
       - role: Unity3D Developer
         time: December 2018 — April 2020
         company: Ambersoft LLC, Australia, New South Wales
         details: |
           Projects:
+      - title: The Price of Freedom - The Secret of the Puppeteer
+        link: "https://store.steampowered.com/app/436160/_/"
 
 
 skills:
