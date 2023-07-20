@@ -88,24 +88,15 @@ experiences:
         time: August 2021 — July 2023
         company: MYTONA LIMITED, New Zealand, Auckland 
         details: |
-          Projects:
-        assignments:
-          - title: Outfire - Battle Royale Shooter
-            link: "https://play.google.com/store/apps/details?id=com.mytona.outgun&hl=en_US"
-            tagline: "Isometric Battle Royale Shooter. Mid-core. 3D"
-          - title: Family match
-            link: "https://play.google.com/store/apps/details?id=com.mytona.supercasual3"
-            tagline: "Puzzle. Casual, 2D"
+          Game Projects:
+          * Outfire - Battle Royale Shooter
+          * Family match
 
       - role: Unity3D Developer
         time: June 2021 — July 2021
         company:  Playcus Limited, Cyprus, Aglantzia
         details: |
-          Projects:
-        assignments:
-          - title: Art Book Paint Color by Number
-            link: "https://play.google.com/store/apps/details?id=com.playcus.artbook.paint.colorbynumber"
-            tagline: "Relaxing. Casual, 2D"
+          Game Project: Art Book Paint Color by Number:
 
       - role: Unity3D Developer
         time: April 2020 — June 2021
@@ -117,21 +108,34 @@ experiences:
         time: April 2020 — Recent time
         company: OTUS online - education LLC, Russia, Moscow 
         details: |
-          Projects:
-        assignments:
-          - title: Education modules
-            link: "https://github.com/otus-unity/2020-01_module3"
+          Education modules:
 
       - role: Unity3D Developer
         time: December 2018 — April 2020
         company: Ambersoft LLC, Australia, New South Wales
         details: |
-          Projects:
-        assignments:
-          - title: The Price of Freedom - The Secret of the Puppeteer
-            link: "https://store.steampowered.com/app/436160/_/"
-            tagline: "Hidden object"
-
+          Game Project: The Price of Freedom - The Secret of the Puppeteer
+        
+projects:
+  title: Side Projects
+  intro: >
+  
+  assignments:    
+    - title: Outfire - Battle Royale Shooter
+      link: "https://play.google.com/store/apps/details?id=com.mytona.outgun&hl=en_US"
+      tagline: "Isometric Battle Royale Shooter. Mid-core. 3D"
+    - title: Family match
+      link: "https://play.google.com/store/apps/details?id=com.mytona.supercasual3"
+      tagline: "Puzzle. Casual, 2D"
+    - title: Art Book Paint Color by Number
+      link: "https://play.google.com/store/apps/details?id=com.playcus.artbook.paint.colorbynumber"
+      tagline: "Relaxing. Casual, 2D"  
+    - title: Education modules
+      link: "https://github.com/otus-unity/2020-01_module3"
+    - title: The Price of Freedom - The Secret of the Puppeteer
+        link: "https://store.steampowered.com/app/436160/_/"
+        tagline: "Hidden object"  
+      
 skills:
     title: Skills &amp; Proficiency
 
