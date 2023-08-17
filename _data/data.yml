@@ -11,7 +11,7 @@ sidebar:
     email: sukhov163@gmail.com
     citizenship: Russian
     website: HeartsCore.github.io/
-    linkedin: ilya-sukhov-709484198
+    linkedin: ilya-sukhov
     github: HeartsCore
     # telegram: 
     # pdf: 
@@ -47,17 +47,21 @@ career-profile:
        - Universal Render Pipeline
        - UniTask
        - Zenject
+       - VContainer
        - Addressable Asset System
-       - Fmod
+       - Fmod SDK
+       - Wwise SDK
        - Facebook SDK for Unity
        - PlayFab SDK for Unity
        - FireBase
        - Steamworks SDK
        - Photon Unity Networking (PUN 2.0)
+       - Amazon GameLift server SDK
        - Unity Networking (Unet)
        - NavMesh Unity
        - DOTween
        - Spine
+       - NodeCanvas unity (for AI + Spine)
        - Mecanim animations
        - Anima2D
        - UnityLighting
@@ -84,7 +88,13 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Unity3D Developer
+      - role: Unity Developer
+          time: August 2021 — Present
+          company: Rubedo Games, Mersin, Turkey
+          details: |
+            Game Project: Soulbind: Tales Of The Underworld
+            
+      - role: Unity Developer
         time: August 2021 — July 2023
         company: MYTONA LIMITED, New Zealand, Auckland 
         details: |
@@ -92,15 +102,15 @@ experiences:
           * Outfire - Battle Royale Shooter
           * Family match
 
-      - role: Unity3D Developer
+      - role: Unity Developer
         time: June 2021 — July 2021
         company:  Playcus Limited, Cyprus, Aglantzia
         details: |
           Game Project: Art Book Paint Color by Number:
 
-      - role: Unity3D Developer
+      - role: Unity Developer
         time: April 2020 — June 2021
-        company: Freelance 
+        company: Freelance, Helsinki, Finland
         details: |
           Develop NDA game projects without a name
 
