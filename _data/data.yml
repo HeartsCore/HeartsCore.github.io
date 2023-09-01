@@ -23,7 +23,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: B1 Intermediate
+          level: B2 Upper-Intermediate
 
     interests:
       title: Interests
@@ -37,7 +37,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I is a game Developer on Unity3D  with excellent skills in .NET development and more than 4 years of practical experience in developing game mechanics and graphical user interface.  
+      I is a game Developer on Unity3D  with excellent skills in .NET development and more than 5 years of practical experience in developing game mechanics and graphical user interface.  
       Have been using C sharp since 2017, and Unity since the end of 2018. Have experience in development using the Task and Unitask libraries.
       I can quickly investigation and fixing optimization issues, and code review. 
       Ilia is a quick learning, communicative, analytical, results-driven person.
@@ -45,6 +45,7 @@ career-profile:
       
       SDKs stack:
        - Universal Render Pipeline
+       - ECS (Unity DOTS)
        - UniTask
        - Zenject
        - VContainer
@@ -146,6 +147,9 @@ skills:
 
       - name: Unity 3d
         level: 70%
+
+      - name: HLSL in Unity
+        level: 35%
 
 footer: >
     “Software testing is a sport like hunting, it's bug hunting". (c) Amit Kalantri 
