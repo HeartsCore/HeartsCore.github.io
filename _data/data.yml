@@ -90,7 +90,13 @@ experiences:
     title: Experiences
     info:
       - role: Unity Developer
-        time: August 2023 — Present
+        time: March 2024 — Present
+        company: EdenSpiel GmbH , Munich, Germany
+        details: |
+          Game Project: Sixth Force
+          
+      - role: Unity Developer
+        time: July 2023 — January 2024
         company: Rubedo Games, Mersin, Turkey
         details: |
           Game Project: Soulbind: Tales Of The Underworld
